@@ -69,12 +69,6 @@ Electronics & Telecommunication Engineer
 | ⚡ NI Multisim Circuits | Electronics |
 | 🤖 AI Study Assistant | Python |
 
----
-
-# 🏆 Certifications
-
-- ✅ Microsoft Certified: SC-900
-- 📖 Certified Data Centre Professional (CDCP) *(Currently Pursuing)*
 
 ---
 
