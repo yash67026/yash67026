@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Electronics+%26+Telecommunication+Engineer;Python+Developer;Machine+Learning+Enthusiast;MATLAB+%7C+NI+Multisim+Developer;Aspiring+Data+Center+Engineer;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Electronics+%26+Telecommunication+Engineer;Python+Developer;Machine+Learning+Enthusiast;MATLAB+%7C+NI+Multisim+Developer;Aspiring+Data+Center+Engineer;Always+Learning+New+Technologies" />
 </p>
 
 ---
