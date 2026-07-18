@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yashwanth H</h1>
+<h1 align="center">👋 Hi There, I'm Yashwanth H</h1>
 
 <h3 align="center">
-Electronics & Telecommunication Engineer • Python Developer • AI & Machine Learning Enthusiast • Data Center Aspirant
+• Electronics & Telecommunication Engineer
+• Python Developer
+• AI & Machine Learning Enthusiast
+• Data Center Aspirant
 </h3>
 
 <p align="center">
@@ -127,7 +130,7 @@ Electronics & Telecommunication Engineer • Python Developer • AI & Machine L
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/yashwanth-h-8446b0196/)">
+<a href="https://www.linkedin.com/in/yashwanth-h-8446b0196/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
