@@ -122,29 +122,21 @@
 
 ---
 
-# 📫 Connect With Me
-
-<p>
-
-<a href="https://github.com/yash67026">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yashwanth-h-8446b0196/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="yyashwanthh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
+# # 📫 Connect With Me
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yash67026&label=Profile+Views&color=0e75b6&style=flat"/>
+<a href="https://github.com/yash67026">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yashwanth-h-8446b0196/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yyashwanthh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
