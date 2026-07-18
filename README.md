@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi There, I'm Yashwanth H</h1>
 
 <h3 align="center">
-• Electronics & Telecommunication Engineer
+Electronics & Telecommunication Engineer
 • Python Developer
 • AI & ML Enthusiast
 • Data Center Aspirant
