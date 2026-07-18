@@ -100,6 +100,40 @@ Electronics & Telecommunication Engineer
 
 ---
 
+# 🏆 Certifications & Internships
+
+## 📜 Certifications
+
+- 🏅 **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**  
+  *Microsoft* • June 2023
+
+- 🏅 **NPTEL – Communication Networks**  
+  *IIT Madras* • April 2025
+
+- 🏅 **Cisco Networking Academy – Introduction to IoT**  
+  *Cisco Networking Academy* • November 2025
+
+---
+
+## 💼 Internships
+
+- 🤖 **Artificial Intelligence and Cloud Computing Internship**  
+  *In partnership with NASSCOM FutureSkills* • February 2026
+
+- 🌐 **Internet of Things (IoT) Internship**  
+  *In partnership with IIT Delhi & Startup India* • May 2026
+
+
+
+---
+
+# 📄 Publications
+
+- 📡 **Comparative Analysis of Massive MIMO System**  
+  Presented at the **2nd International Conference on Intelligent Systems and Computational Networks (ICISCN 2026)**  
+  **IEEE Bangalore Section** • April 2026
+---
+
 # 🌱 Currently Learning
 
 - 🏢 Data Center Infrastructure
