@@ -3,7 +3,7 @@
 <h3 align="center">
 • Electronics & Telecommunication Engineer
 • Python Developer
-• AI & Machine Learning Enthusiast
+• AI & ML Enthusiast
 • Data Center Aspirant
 </h3>
 
