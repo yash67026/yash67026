@@ -16,7 +16,6 @@ Electronics & Telecommunication Engineering Student
 # 👨‍💻 About Me
 
 - 🎓 Electronics & Telecommunication Engineering Graduate
-- 💼 Customer Support Associate at **Tech Mahindra**
 - 🌱 Currently learning **Data Center Infrastructure, Python, Machine Learning and Cloud Computing**
 - 💻 Passionate about AI, Computer Vision, Networking and Engineering Simulations
 - 📚 Building practical projects using Python, MATLAB and Machine Learning
