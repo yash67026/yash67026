@@ -4,7 +4,7 @@
 Electronics & Telecommunication Engineering Student
 • Python Developer
 • AI & ML Enthusiast
-• Data Center Aspirant
+• Entry Level Job Aspirant
 </h3>
 
 <p align="center">
